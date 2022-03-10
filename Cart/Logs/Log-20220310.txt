@@ -1,0 +1,7 @@
+2022-03-10T13:28:45.2497958+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-10T13:28:45.2637377+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-10T13:28:45.2669095+01:00  [INF] Content root path: "C:\Users\cunja\source\repos\Cart\Cart" (b5d60022)
+2022-03-10T13:31:49.8644933+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-10T13:31:49.8741103+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-10T13:31:49.8770664+01:00  [INF] Content root path: "C:\Users\cunja\source\repos\Cart\Cart" (b5d60022)
+2022-03-10T13:32:02.8045814+01:00 8000003b-0006-fb00-b63f-84710c7967bb [WRN] The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results. (f43d926b)

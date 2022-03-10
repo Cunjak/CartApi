@@ -1,0 +1,15 @@
+C:\Users\cunja\source\repos\Cart\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\cunja\source\repos\Cart\Business\bin\Debug\net5.0\Business.dll
+C:\Users\cunja\source\repos\Cart\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\cunja\source\repos\Cart\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\cunja\source\repos\Cart\Business\bin\Debug\net5.0\Data.dll
+C:\Users\cunja\source\repos\Cart\Business\bin\Debug\net5.0\Data.pdb
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\Business.dll
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\cunja\source\repos\Cart\Business\obj\Debug\net5.0\Business.pdb
